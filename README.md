@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I learned IT skills at a vocational school. I'm a budding engineer.
 
 <!--
 **kantaro-tsu/kantaro-tsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=contiki9&left_color=gray&right_color=blue)
+[![Instagram: find_fand](https://img.shields.io/badge/Instagram_for-find_fand-8A2BE2)](https://www.instagram.com/find_fand/)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kantaro-tsu&theme=vue)
  
